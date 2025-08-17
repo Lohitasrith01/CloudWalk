@@ -22,7 +22,7 @@ A real-time spoken digit recognition system with advanced neural networks, slidi
 - **Confidence-based filtering** for reliable predictions
 - **Smart duplicate detection** and sequence assembly
 
-### 🎨 **Beautiful UI**
+### 🎨 **Prototype UI**
 - **Sleek black & gold theme** with custom animations
 - **Interactive visualizations** including confusion matrices and confidence plots
 - **Real-time audio analysis** with spectrograms and VAD
