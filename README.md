@@ -106,9 +106,7 @@ CloudWalk/
 └── assets/                           # Model artifacts
     ├── digit_cnn.onnx               # Trained ONNX model
     ├── preprocess.json              # Preprocessing configuration
-    ├── metrics.json                 # Model performance metrics
-    ├── confusion_matrix.png         # Confusion matrix visualization
-    └── per_class_metrics.png        # Per-class performance charts
+    └── metrics.json                 # Model performance metrics 
 ```
 
 ## 🔧 **Technical Details**
